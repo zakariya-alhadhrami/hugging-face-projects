@@ -1,15 +1,18 @@
 
----
-title: Trashify Demo 🚮
-emoji: 🗑️
-colorFrom: green
-colorTo: blue
-sdk: gradio
-sdk_version: 5.34.0
-app_file: app.py
-pinned: false
-license: apache-2.0
----
+
+## 📋 Project Metadata
+
+| Field       | Value                    |
+| ----------- | ------------------------ |
+| Title       | Trashify Demo 🚮 |
+| Emoji       | 🗑️                      |
+| Color From  | green                     |
+| Color To    | blue                      |
+| SDK         | Gradio                   |
+| SDK Version | 5.34.0                  |
+| App File    | app.py                   |
+| Pinned      | false                    |
+| License     | Apache-2.0               |
 
 # 🌍 Trashify : Gamified Community Cleanup
 
